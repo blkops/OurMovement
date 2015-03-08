@@ -1,1 +1,0 @@
-In the year 1619 there were twenty Africans who were aboard a Dutch ship whic arrived in Jamestown, Virginia. 

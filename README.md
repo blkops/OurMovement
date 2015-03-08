@@ -6,7 +6,7 @@ Feel free to add, correct or change as you wish but this is just a rough draft.
 
 
 ## Before the Atlantic slave trade
-<!-- I believe the 1300's to 1450's can't remember of the top -->
+<!-- I believe the 1500's to 1650's can't remember of the top -->
 - Tribes
 - Religion
 - Family structure
@@ -16,7 +16,7 @@ Feel free to add, correct or change as you wish but this is just a rough draft.
 - Food
 ## Right before the slave trade
 <!-- Some of the things that went on leading up to the slave trade -->
-<!-- Blacks were residences of the 13th colonies before the founding of jamestown -->
+<!-- Blacks were residences of the 13th colonies before the founding of jamestown 1607-->
 - Native Indians
 	- Religion
 	- Education and belief
@@ -110,6 +110,7 @@ Feel free to add, correct or change as you wish but this is just a rough draft.
 - New terminonogy terms thugs, race baiter, new black etc
 - Old protestors meet the new (al sharpton & jeese jackson) (Ferguson Protestors, NYC and others)
 - Decentalization
+- BlackOutDay
 
 
 
