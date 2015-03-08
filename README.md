@@ -1,9 +1,8 @@
 <!-- This could serve as a historical page for African Americans or blacks to know part of their history and where they came from and where they can go for more in depth information. This page can be added with the website. I believe this serves a ground in which blacks can educate themselves.-->
 
-This document will address the lives of African Americans and Blacks of all kinds in the west. It will explain the reasons why majority of blacks resided in the Western Hemisphere. Although it's focus is on people who inherit the African Diaspora, African Americans (Blacks) in U.S will be the subject of research. This document will decribe the Atlantic slave trade and its effect on the everyday lives of Black westerners before, during and after slavery leading up to current events in the 21st century. Mike Brown and Ferguson #BlackLivesMatter movement is apart of an on going fight for freedom amongst many blacks who witness emotional, psychological and systematic oppression in their everyday lives. These issues come from countless others that spark from systematic and economical roots partically in United States of America. Hopefully this will answer many questions. If not, there will be many plenty of keywords and articles to research via google and video you can check out for yourself.
+This document will address the lives of African Americans and Blacks of all kinds in the west. It will explain the reasons why majority of blacks resided in the Western Hemisphere. Although it's focus is on people who inherit the African Diaspora, African Americans (Blacks) in U.S will be the subject of research. This document will decribe the Atlantic slave trade and its effect on the everyday lives of Black westerners before, during and after slavery leading up to current events in the 21st century. Mike Brown and Ferguson #BlackLivesMatter movement is apart of an on going fight for freedom amongst many blacks who witness emotional, psychological and systematic oppression in their everyday lives. These issues come from countless others that spark from systematic and economical roots partically in United States of America. Hopefully this will answer many questions. If not, there will be many plenty of keywords and articles to research via google.
 
 Feel free to add, correct or change as you wish but this is just a rough draft. 
-
 
 ## Before the Atlantic slave trade
 <!-- I believe the 1500's to 1650's can't remember of the top -->
@@ -14,6 +13,7 @@ Feel free to add, correct or change as you wish but this is just a rough draft.
 - Education
 	 Timbuktu, Mali was one of the first and largest Universities
 - Food
+
 ## Right before the slave trade
 <!-- Some of the things that went on leading up to the slave trade -->
 <!-- Blacks were residences of the 13th colonies before the founding of jamestown 1607-->
@@ -49,8 +49,8 @@ Feel free to add, correct or change as you wish but this is just a rough draft.
 	- Food
 	- Family
 	- Names
-<!-- Can't forget some help from whites, great aweakening, abolitionist etc -->
 
+<!-- Can't forget some help from whites, great aweakening, abolitionist etc -->
 ## Shortly After the abolish of Slavery 13th amendment (1850's)
 <!-- This will address somethings leading up to the Emancipation Proclamation & 13th amendment and after-->
 - Civil war
